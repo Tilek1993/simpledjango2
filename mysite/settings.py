@@ -25,7 +25,7 @@ SECRET_KEY = '1$n_vy^a=(u8_3eg0)hee-ob7t5hv!(yp%ot@@eb85#k(fl%#0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', '.tilek.ga', '207.154.208.82']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '.toktogul.tk', '207.154.208.82']
 
 
 # Application definition
